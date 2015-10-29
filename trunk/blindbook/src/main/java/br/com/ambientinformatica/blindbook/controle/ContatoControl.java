@@ -27,6 +27,8 @@ public class ContatoControl {
 	
 	private List<Contato> contatos = new ArrayList<Contato>();
 	
+	
+	
 
    @PostConstruct
    public void init(){
