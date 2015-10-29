@@ -17,7 +17,7 @@ public class Cidade {
 	private Integer id = 0;
 
 	private String nome;
-
+	
 	@Enumerated(EnumType.STRING)
 	private EnumUF uf;
 

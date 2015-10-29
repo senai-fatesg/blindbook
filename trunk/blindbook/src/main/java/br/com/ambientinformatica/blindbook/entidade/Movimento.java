@@ -27,7 +27,6 @@ public class Movimento {
 		
 		cliente = new Cliente();
 		funcionario = new Funcionario();
-
 	}
 
 	private String nome;
