@@ -24,6 +24,9 @@ public class Movimento {
 	private Funcionario funcionario;
 
 	public Movimento() {
+		
+		cliente = new Cliente();
+		funcionario = new Funcionario();
 
 	}
 
